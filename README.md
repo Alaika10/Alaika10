@@ -25,13 +25,13 @@ Study at <a href="https://bhamada.ac.id">Bhamada University</a>
 
 <br/>
 
-<div align="center">
-  <h3 align="center">📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaika10&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaika10&layout=compact&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaika10&theme=github_dark&hide_border=true" alt="streak graph" />
-</div>
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Alaika10">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alaika10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alaika10&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <br/>
 
